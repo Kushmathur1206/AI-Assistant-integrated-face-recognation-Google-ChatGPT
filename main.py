@@ -13,7 +13,7 @@ import openai
 from config import apikey
 
 
-Name = "Mr.Mathur"
+Name = "Your name"
 
 def ai(prompt):
     openai.api_key = apikey
@@ -40,7 +40,7 @@ def qr(text):
     image = qr.make_image(fill='black',back_color='white')
     image.save('QR.png')
 
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36'}
+headers = {'Enter your User-Agent'}
 
 def weather(city):
     c1 = city
