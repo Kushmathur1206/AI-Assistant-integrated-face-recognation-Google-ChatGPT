@@ -13,9 +13,10 @@ import openai
 from config import apikey
 import fr
 
-x = fr.fc()
-Name = x
-
+x = fr.fc() #Upload your photo in the photos folder with your name
+Name = x 
+#or enter you name manually
+#Name = Your Name
 
 def ai(prompt):
     openai.api_key = apikey
