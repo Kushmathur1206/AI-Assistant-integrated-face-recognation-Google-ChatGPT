@@ -11,9 +11,11 @@ import image
 import qrcode
 import openai
 from config import apikey
+import fr
 
+x = fr.fc()
+Name = x
 
-Name = "Your name"
 
 def ai(prompt):
     openai.api_key = apikey
