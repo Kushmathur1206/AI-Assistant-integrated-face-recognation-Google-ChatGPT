@@ -1,4 +1,4 @@
-# Desktop-AI-Assistant-Google-ChatGPT-Uses-face-recognation-to-identify-the-person
+# 🧠🎙️🧑‍💻Desktop-AI-Assistant-Google-ChatGPT-Uses-face-recognation-to-identify-the-person
 ✅ Real-World Use Cases  
 
 - 🧑‍🎓 Study Companion for Students
