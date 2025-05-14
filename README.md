@@ -31,10 +31,13 @@ The assistant speaks its responses using pyttsx3 (text-to-speech), creating a sm
 Wake Word Detection
 It can remain passive until a specific "wake word" (like "hey assistant") is spoken.
 
-Tech Stack
-Face Recognition	face_recognition, OpenCV
-Voice Input	speech_recognition
-Voice Output	pyttsx3
-AI Chat	openai (ChatGPT API)
-Web Search	pywhatkit, googlesearch-python
-Other Utils	os, datetime, webbrowser
+🛠️ Tech Stack
+| Function         | Tools/Libraries                           |
+| ---------------- | ----------------------------------------- |
+| Face Recognition | `face_recognition`, `OpenCV`              |
+| Voice Input      | `speech_recognition`                      |
+| Voice Output     | `pyttsx3`                                 |
+| AI Chat          | `openai` (ChatGPT API)                    |
+| Web Search       | `pywhatkit`, `googlesearch-python`        |
+| Utilities        | `os`, `datetime`, `webbrowser`, `pyaudio` |
+
